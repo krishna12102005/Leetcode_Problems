@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
