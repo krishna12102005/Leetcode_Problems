@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0204-count-primes](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0204-count-primes) |
+| [1732-find-the-highest-altitude](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [2761-prime-pairs-with-target-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3838-weighted-word-mapping](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0204-count-primes) |
 | [2761-prime-pairs-with-target-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
