@@ -15,13 +15,12 @@ class Solution {
             }
         }
 
-        String ans = "";
+        StringBuilder sb = new StringBuilder();
 
         for(char m : st){
-            ans = ans + m;
+            sb.append(m);
         }
 
-
-        return ans;
+        return  new String(sb);
     }
 }
