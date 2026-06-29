@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [1732-find-the-highest-altitude](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2465-number-of-distinct-averages](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2761-prime-pairs-with-target-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3174-clear-digits) |
