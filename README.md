@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2063-vowels-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
