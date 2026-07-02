@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0647-palindromic-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0686-repeated-string-match) |
 | [0844-backspace-string-compare](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2063-vowels-of-all-substrings) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
