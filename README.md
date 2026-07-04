@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1544-make-the-string-great](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
