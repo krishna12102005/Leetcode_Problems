@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2073-time-needed-to-buy-tickets](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2465-number-of-distinct-averages](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2761-prime-pairs-with-target-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1729-find-followers-count](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1729-find-followers-count) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
