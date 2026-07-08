@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0053-maximum-subarray) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
