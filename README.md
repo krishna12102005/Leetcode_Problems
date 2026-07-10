@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2761-prime-pairs-with-target-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0204-count-primes) |
 | [2761-prime-pairs-with-target-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2843-count-symmetric-integers) |
 ## Number Theory
 |  |
