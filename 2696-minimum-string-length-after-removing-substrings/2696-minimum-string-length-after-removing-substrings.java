@@ -1,19 +1,28 @@
 class Solution {
     public int minLength(String s) {
-        
-        while(true){
-            String next = s.replace("AB" , "").replace("CD" , "");
+        Stack<Character> st = new Stack<>();
 
-            if(next.equals(s)){
-                break;
+        for(int i = 0  ;i < s.length()  ; i++){
+            char c = s.charAt(i);
+
+            if(st.isEmpty()){
+                st.push(c);
             }
-
-            s = next;
+            else{
+               char top = st.peek();
+               String action = "" + top + c;
+               if(action .equals("AB")  || action .equals("CD") ){
+                 st.pop();
+               }
+               else{
+                st.push(c);
+               }
+            }
         }
 
-        return s.length();
+        System.out.println(st);
 
-        
+        return st.size();
 
     }
 }
