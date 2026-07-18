@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2063-vowels-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
