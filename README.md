@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-number-of-distinct-averages](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2540-minimum-common-value) |
+| [2643-row-with-maximum-ones](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2643-row-with-maximum-ones) |
 | [2761-prime-pairs-with-target-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -266,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
+| [2643-row-with-maximum-ones](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
