@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2063-vowels-of-all-substrings) |
+| [2315-count-asterisks](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
