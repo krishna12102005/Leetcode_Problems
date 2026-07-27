@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0867-transpose-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
