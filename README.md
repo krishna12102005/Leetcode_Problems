@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-number-of-distinct-averages](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Backtracking
 |  |
