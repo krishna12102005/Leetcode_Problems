@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -288,5 +289,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
