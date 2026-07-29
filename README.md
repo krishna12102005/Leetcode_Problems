@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2643-row-with-maximum-ones) |
