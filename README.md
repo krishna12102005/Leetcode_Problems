@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-number-of-distinct-averages](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2643-row-with-maximum-ones) |
 | [2761-prime-pairs-with-target-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-number-of-distinct-averages](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2465-number-of-distinct-averages) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Backtracking
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
