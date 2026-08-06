@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2063-vowels-of-all-substrings) |
