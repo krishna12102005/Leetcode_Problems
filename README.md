@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
