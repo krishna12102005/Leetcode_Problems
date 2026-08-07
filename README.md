@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [2063-vowels-of-all-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2063-vowels-of-all-substrings) |
 ## Math
