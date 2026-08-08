@@ -1,29 +1,35 @@
 class Solution {
-    public int findMaxK(int[] nums){
-    
+    public int findMaxK(int[] nums) {
+        Arrays.sort(nums);
 
-        ArrayList<Integer> lst = new ArrayList<>();
 
-        for(int num :nums){
-            lst.add(num);
-        }
+        int first = 0;
+        int last = nums.length-1;
 
-        ArrayList<Integer> lst2 = new ArrayList<>();
+        while(first < last){
+            if(nums[first] < 0){
+                 int value1 = Math.abs(nums[first]);
 
-        for(int l : lst){
-            if(lst.contains(l) && lst.contains(-l)){
-                lst2.add(l);
+                 if(value1 == nums[last]){
+                    return nums[last];
+                 }
+
+                 if(value1 > nums[last]){
+                    first++;
+                }
+
+                else{
+                   last--;
+                }
             }
-        }
 
-        int max = -1;
-        for(int r : lst2){
-            if(r > max){
-                max = r;
+            else{
+                break;
             }
+           
         }
 
-        return max;
+
+        return -1;
     }
-    
 }
