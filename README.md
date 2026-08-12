@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0686-repeated-string-match) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [2063-vowels-of-all-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2063-vowels-of-all-substrings) |
 ## Math
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 ## Bucket Sort
 |  |
 | ------- |
