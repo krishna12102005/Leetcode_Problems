@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/krishna12102005/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishna12102005/Leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
