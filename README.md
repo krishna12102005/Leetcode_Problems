@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/krishna12102005/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3174-clear-digits) |
+| [3340-check-balanced-string](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/krishna12102005/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Sorting
